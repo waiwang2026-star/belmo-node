@@ -1,0 +1,1 @@
+{"name":"belmo-node","private":true,"scripts":{"start":"node launcher.js"},"version":"1.0.0"}
